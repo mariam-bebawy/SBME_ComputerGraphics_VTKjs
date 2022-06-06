@@ -1,0 +1,12 @@
+
+.table1 {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    background: black;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+
